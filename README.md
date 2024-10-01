@@ -1,5 +1,5 @@
 # Die-Gedanken-sind-frei
-Repository to practice text file editing and markup formatting
+### Repository to practice text file editing and markup formatting
 :musical_note:
 _Die Gedanken sind frei_, **wer kann sie erraten,**
 sie fliehen vorbei wie nächtliche Schatten.
